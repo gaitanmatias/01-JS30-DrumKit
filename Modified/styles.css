@@ -85,3 +85,11 @@ key:nth-child(n + 5):nth-child(-n + 10) {
     font-weight: 400;
     color: coral;
 }
+
+
+/* Playing */
+.playing{
+    transform: translateY(-5px);
+    border: 2px solid rgba(255,127,80,.5);
+    box-shadow: 0px 2px 5px 5px rgba(255,127,80,.1);
+}
